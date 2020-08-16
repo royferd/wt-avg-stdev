@@ -1,3 +1,5 @@
+function f = wt_avg_stdev(y,dy)
+
 % 1-8-2018. Turn this code into a routine that calculates a weighted mean
 % and standard deviation for a given vector of measurements and errors.
 % Maybe calculate standard error and chi-square too.
